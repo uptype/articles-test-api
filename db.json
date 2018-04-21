@@ -33,17 +33,18 @@
 							"full": {
 								"url": "https://blog.topbetta.com.au/wp-content/uploads/2018/01/Adelaide-Oval.jpg",
 								"width": 900,
-								"height": 506,
+								"height": 506
 							},
 							"thumbnail": {
 								"url": "https://blog.topbetta.com.au/wp-content/uploads/2018/01/Adelaide-Oval-238x178.jpg",
 								"width": 238,
-								"height": 178,
+								"height": 178
 							}
 						}
 					}
 				]
-			}, {
+			},
+			{
 				"id": 21406,
 				"type": "post",
 				"slug": "test-slug",
@@ -61,12 +62,12 @@
 							"full": {
 								"url": "https://blog.topbetta.com.au/wp-content/uploads/2018/01/Adelaide-Oval.jpg",
 								"width": 900,
-								"height": 506,
+								"height": 506
 							},
 							"thumbnail": {
 								"url": "https://blog.topbetta.com.au/wp-content/uploads/2018/01/Adelaide-Oval-238x178.jpg",
 								"width": 238,
-								"height": 178,
+								"height": 178
 							}
 						}
 					}
