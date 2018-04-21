@@ -1,14 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"get_category_posts": {
+		"status": "ok",
+		"count": 2,
+		"pages": 105,
+		"status": "ok",
+		"count": 2,
+		"pages": 105,
+		"category": {
+			"id": 5,
+			"slug": "sport",
+			"title": "Sport",
+			"description": "",
+			"parent": 0,
+			"post_count": 210
+		}
+	}
 }
