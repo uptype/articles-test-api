@@ -1,165 +1,214 @@
 {
-	"get_category_posts": {
-		"status": "ok",
-		"count": 4,
-		"pages": 1,
-		"category": {
-			"id": 972,
-			"slug": "promos",
-			"title": "Promotions - Website",
-			"description": "New promo category for the new layout website promos.",
-			"parent": 0,
-			"post_count": 4
-		},
-		"posts": [
-			{
-				"id": 1111,
-				"type": "post",
-				"slug": "goat-price-bump",
-				"url": "https://www.topbetta.com.au/blog/2018/04/goat-price-bump/",
-				"status": "publish",
-				"title": "GOAT Price Bump",
-				"title_plain": "GOAT Price Bump",
-				"content": "",
-				"excerpt": "",
-				"date": "2018-04-17 10:00:00",
-				"modified": "2018-04-18 10:00:00",
-				"categories": [{
-					"id": 972,
-					"slug": "promos",
-					"title": "Promotions - Website",
-					"description": "New promo category for the new layout website promos.",
-					"parent": 0,
-					"post_count": 4
-				}],
-				"attachments": [],
-				"thumbnail_images": [
-					{
-						"full": {
-							"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2018/04/TB_PTile_GOATPriceBump_v2.jpg",
-							"width": 700,
-							"height": 350
-						},
-						"thumbnail": {
-							"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2018/04/TB_PTile_GOATPriceBump_v2-238x178.jpg",
-							"width": 238,
-							"height": 178
-						},					}
-				],
-				"custom_fields": {
-					"claim_url": [
-						"https://www.topbetta.com.au/racing?utm_source=promo-page&utm_medium=button&utm_campaign=2018-goat-price-bump&utm_content=promo-page-button"
-					],
-					"claim_url_text": [
-						"Bet Now"
-					],
-					"how_it_works": [
-						"For all you Footy fans who think the bump is dead... think again!<br> <br> Introducing the GOAT Price Bump, TopBetta's new product that lets punters BUMP up the odds on every single runner in a race or selections of available sporting markets.<br> <br> The GOAT is bringing back the bump (and the biff)!<br> <br> How do you know that a GOAT Price Bump is available? <br> <br> Simple! Just look for the 👊on eligible races or sporting events and click to BUMP up your odds!"
-					],
-					"terms_and_conditions": [
-						"<li>‘Price Bump’ options allow you to place a bet at better fixed odds.</li> <li>Price Bump options may be available to you on certain sporting events and thoroughbred, harness and greyhound racing. When you select Price Bump, the increased fixed odds available for you to place your bet will appear. If you wish to place your bet at the Bumped odds that appear, you must select Price Bump to place your bet. If you do not wish to place your bet at the Bumped odds that appear, you must deselect Price Bump.</li> <li>The number of Price Bumps which may be made available in any day will vary. Any unused Price Bumps allocated to you will expire on a daily basis. You can only use your allocated number of Price Bumps in any given 24-hour period, starting and ending at midnight. No correspondence will be entered into about this.</li> <li>Price Bump is only available for single fixed-odds win bets on racing and fixed-odds bets on Sports.</li> <li>The size of the Price Bumped odds which may be available via the Price Bump options will vary depending on a range of factors. No correspondence will be entered into about this.</li> <li>Price Bump options are only available to genuine recreational gamblers who at all times act in good faith and without fraud. Price Bump options are not available to arbitrage or professional punters.</li> <li>TopBetta reserves the right to disallow or disqualify you from using Price Bump options where your usage and volume indicate that you have breached, abused or undermined TopBetta’s General Betting Rules, any additional terms and conditions, the spirit or intent of the Price Bump options or any of TopBetta’s Terms and Conditions.</li> <li>If there is a difference in the name identified with your account and the name identified with your deposit method (e.g. name on credit card), you may be ineligible for Price Bump options and Price Bump options may be withdrawn or invalidated.</li> <li>So as to avoid the abuse of promotions offered by us from time to time, Price Bump is not available together with promotions such as bonus bets, bets placed using non- withdrawable funds or any bets placed which would qualify customers to receive a bonus bet, bonus or promotion. The Price Bump and Margin Butt cannot be used on the same bet. They can be used on the same race, but only one at a time.</li> <li>Bets placed together with Price Bump options are subject to our TopBetta’s Terms and Conditions. TopBetta’s usual customer restrictions, liability and trading limits also apply.</li> <li>A bet placed together with Price Bump option is not accepted until you receive a bet confirmation. If there is any failure or malfunction, a bet may be paid at the regular odds.</li> <li>TopBetta reserve the right to amend, suspend or remove the availability of Price Bump options at any time, on any market or to any customer.</li>"
-					]
-				}
+		"get_category_posts": {
+			"status": "ok",
+			"count": 4,
+			"pages": 1,
+			"category": {
+				"id": 972,
+				"slug": "promos",
+				"title": "Promotions - Website",
+				"description": "New promo category for the new layout website promos.",
+				"parent": 0,
+				"post_count": 4
 			},
-			{
-				"id": 2222,
-				"type": "post",
-				"slug": "goat-price-bump",
-				"url": "https://www.topbetta.com.au/blog/2018/04/goat-price-bump/",
-				"status": "publish",
-				"title": "Protest upheld 1st place and both horses win!",
-				"title_plain": "Protest upheld 1st place and both horses win!",
-				"content": "",
-				"excerpt": "",
-				"date": "2018-04-17 13:00:00",
-				"modified": "2018-04-18 130:00:00",
-				"categories": [{
-					"id": 972,
-					"slug": "promos",
-					"title": "Promotions - Website",
-					"description": "New promo category for the new layout website promos.",
-					"parent": 0,
-					"post_count": 4
-				}],
-				"attachments": [],
-				"thumbnail_images": [
-					{
-						"full": {
-							"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2017/10/TB_PTile_ProtestGuarantee_v2.jpg",
-							"width": 900,
-							"height": 506
-						},
-						"thumbnail": {
-							"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2017/10/TB_PTile_ProtestGuarantee_v2-238x178.jpg",
-							"width": 238,
-							"height": 178
-						}
+			"posts": [
+				{
+					"id": 1111,
+					"type": "post",
+					"slug": "goat-price-bump",
+					"url": "https://www.topbetta.com.au/blog/2018/04/goat-price-bump/",
+					"status": "publish",
+					"title": "GOAT Price Bump",
+					"title_plain": "GOAT Price Bump",
+					"content": "",
+					"excerpt": "",
+					"date": "2018-04-17 10:00:00",
+					"modified": "2018-04-18 10:00:00",
+					"categories": [{
+						"id": 972,
+						"slug": "promos",
+						"title": "Promotions - Website",
+						"description": "New promo category for the new layout website promos.",
+						"parent": 0,
+						"post_count": 4
+					}],
+					"attachments": [],
+					"thumbnail_images": [
+						{
+							"full": {
+								"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2018/04/TB_PTile_GOATPriceBump_v2.jpg",
+								"width": 700,
+								"height": 350
+							},
+							"thumbnail": {
+								"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2018/04/TB_PTile_GOATPriceBump_v2-238x178.jpg",
+								"width": 238,
+								"height": 178
+							},					}
+					],
+					"custom_fields": {
+						"claim_url": [
+							"https://www.topbetta.com.au/racing?utm_source=promo-page&utm_medium=button&utm_campaign=2018-goat-price-bump&utm_content=promo-page-button"
+						],
+						"claim_url_text": [
+							"Bet Now"
+						],
+						"how_it_works": [
+							"For all you Footy fans who think the bump is dead... think again!<br> <br> Introducing the GOAT Price Bump, TopBetta's new product that lets punters BUMP up the odds on every single runner in a race or selections of available sporting markets.<br> <br> The GOAT is bringing back the bump (and the biff)!<br> <br> How do you know that a GOAT Price Bump is available? <br> <br> Simple! Just look for the 👊on eligible races or sporting events and click to BUMP up your odds!"
+						],
+						"terms_and_conditions": [
+							"<li>‘Price Bump’ options allow you to place a bet at better fixed odds.</li> <li>Price Bump options may be available to you on certain sporting events and thoroughbred, harness and greyhound racing. When you select Price Bump, the increased fixed odds available for you to place your bet will appear. If you wish to place your bet at the Bumped odds that appear, you must select Price Bump to place your bet. If you do not wish to place your bet at the Bumped odds that appear, you must deselect Price Bump.</li>"
+						]
 					}
-				],
-				"custom_fields": {
-					"claim_url": [
-						"https://www.topbetta.com.au/racing"
+				},
+				{
+					"id": 2222,
+					"type": "post",
+					"slug": "goat-price-bump",
+					"url": "https://www.topbetta.com.au/blog/2018/04/goat-price-bump/",
+					"status": "publish",
+					"title": "Protest upheld 1st place and both horses win!",
+					"title_plain": "Protest upheld 1st place and both horses win!",
+					"content": "",
+					"excerpt": "",
+					"date": "2018-04-17 13:00:00",
+					"modified": "2018-04-18 130:00:00",
+					"categories": [{
+						"id": 972,
+						"slug": "promos",
+						"title": "Promotions - Website",
+						"description": "New promo category for the new layout website promos.",
+						"parent": 0,
+						"post_count": 4
+					}],
+					"attachments": [],
+					"thumbnail_images": [
+						{
+							"full": {
+								"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2017/10/TB_PTile_ProtestGuarantee_v2.jpg",
+								"width": 900,
+								"height": 506
+							},
+							"thumbnail": {
+								"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2017/10/TB_PTile_ProtestGuarantee_v2-238x178.jpg",
+								"width": 238,
+								"height": 178
+							}
+						}
 					],
-					"claim_url_text": [
-						"Bet Now"
+					"custom_fields": {
+						"claim_url": [
+							"https://www.topbetta.com.au/racing"
+						],
+						"claim_url_text": [
+							"Bet Now"
+						],
+						"how_it_works": [
+							"If a protest against the first horse to finish is upheld, TopBetta will pay out on both the interim winner (first past the post) as well as the winner listed in the official dividends after the protest has been finalised. Thoroughbred racing in Australia only.* <br/><br/>"
+						],
+						"terms_and_conditions": [
+							"<li>Applies to win bets only</li> <li>Maximum payout $2000</li> <li>Payout will occur within 48 hours</li> <li>Cannot be used as part of a Multi</li> <li>Wagers placed with Bonus Bet money will be ineligible for this offer.</li> <li>Not to be used in conjunction with any other offer.</li> <li>Standard Promotions & Bonus Bets<a style=\"color: blue;\" href=\"https://help.topbetta.com.au/knowledge-base/bonus-bets-terms-conditions/\">Terms and Conditions</a> apply."
+						]
+					}
+				},
+				{
+					"id": 3333,
+					"type": "post",
+					"slug": "goat-price-bump",
+					"url": "https://www.topbetta.com.au/blog/2018/04/goat-price-bump/",
+					"status": "publish",
+					"title": "GOAT Price Bump",
+					"title_plain": "GOAT Price Bump",
+					"content": "",
+					"excerpt": "",
+					"date": "2018-04-17 11:00:00",
+					"modified": "2018-04-18 10:00:00",
+					"categories": [{
+						"id": 972,
+						"slug": "promos",
+						"title": "Promotions - Website",
+						"description": "New promo category for the new layout website promos.",
+						"parent": 0,
+						"post_count": 4
+					}],
+					"attachments": [],
+					"thumbnail_images": [
+						{
+							"full": {
+								"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2017/10/TB_PTile_ThursNightThrill_v2.jpg",
+								"width": 700,
+								"height": 350
+							},
+							"thumbnail": {
+								"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2017/10/TB_PTile_ThursNightThrill_v2-238x178.jpg",
+								"width": 238,
+								"height": 178
+							},					}
 					],
-					"how_it_works": [
-						"If a protest against the first horse to finish is upheld, TopBetta will pay out on both the interim winner (first past the post) as well as the winner listed in the official dividends after the protest has been finalised. Thoroughbred racing in Australia only.* <br/><br/>"
+					"custom_fields": {
+						"claim_url": [
+							"https://www.topbetta.com.au/racing?utm_source=promo-page&utm_medium=button&utm_campaign=2018-goat-price-bump&utm_content=promo-page-button"
+						],
+						"claim_url_text": [
+							"Bet Now"
+						],
+						"how_it_works": [
+							"For all you Footy fans who think the bump is dead... think again!<br> <br> Introducing the GOAT Price Bump, TopBetta's new product that lets punters BUMP up the odds on every single runner in a race or selections of available sporting markets.<br> <br> The GOAT is bringing back the bump (and the biff)!<br> <br> How do you know that a GOAT Price Bump is available? <br> <br> Simple! Just look for the 👊on eligible races or sporting events and click to BUMP up your odds!"
+						],
+						"terms_and_conditions": [
+							"<li>Term item ...</li><li>Term item ...</li><li>Term item ...</li><li>Term item ...</li>"
+						]
+					}
+				},
+				{
+					"id": 3333,
+					"type": "post",
+					"slug": "goat-price-bump",
+					"url": "https://www.topbetta.com.au/blog/2018/04/goat-price-bump/",
+					"status": "publish",
+					"title": "GOAT Price Bump",
+					"title_plain": "GOAT Price Bump",
+					"content": "",
+					"excerpt": "",
+					"date": "2018-04-17 11:00:00",
+					"modified": "2018-04-18 10:00:00",
+					"categories": [{
+						"id": 972,
+						"slug": "promos",
+						"title": "Promotions - Website",
+						"description": "New promo category for the new layout website promos.",
+						"parent": 0,
+						"post_count": 4
+					}],
+					"attachments": [],
+					"thumbnail_images": [
+						{
+							"full": {
+								"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2017/10/TB_PTile_ThursNightThrill_v2.jpg",
+								"width": 700,
+								"height": 350
+							},
+							"thumbnail": {
+								"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2017/10/TB_PTile_ThursNightThrill_v2-238x178.jpg",
+								"width": 238,
+								"height": 178
+							},					}
 					],
-					"terms_and_conditions": [
-						"<li>Applies to win bets only</li> <li>Maximum payout $2000</li> <li>Payout will occur within 48 hours</li> <li>Cannot be used as part of a Multi</li> <li>Wagers placed with Bonus Bet money will be ineligible for this offer.</li> <li>Not to be used in conjunction with any other offer.</li> <li>Standard Promotions & Bonus Bets<a style=\"color: blue;\" href=\"https://help.topbetta.com.au/knowledge-base/bonus-bets-terms-conditions/\">Terms and Conditions</a> apply."
-					]
+					"custom_fields": {
+						"claim_url": [
+							"https://www.topbetta.com.au/racing?utm_source=promo-page&utm_medium=button&utm_campaign=2018-goat-price-bump&utm_content=promo-page-button"
+						],
+						"claim_url_text": [
+							"Bet Now"
+						],
+						"how_it_works": [
+							"For all you Footy fans who think the bump is dead... think again!<br> <br> Introducing the GOAT Price Bump, TopBetta's new product that lets punters BUMP up the odds on every single runner in a race or selections of available sporting markets.<br> <br> The GOAT is bringing back the bump (and the biff)!<br> <br> How do you know that a GOAT Price Bump is available? <br> <br> Simple! Just look for the 👊on eligible races or sporting events and click to BUMP up your odds!"
+						],
+						"terms_and_conditions": [
+							"<li>Term item ...</li><li>Term item ...</li><li>Term item ...</li><li>Term item ...</li>"
+						]
+					}
 				}
-			},
-			{
-				"id": 3333,
-				"type": "post",
-				"slug": "goat-price-bump",
-				"url": "https://www.topbetta.com.au/blog/2018/04/goat-price-bump/",
-				"status": "publish",
-				"title": "GOAT Price Bump",
-				"title_plain": "GOAT Price Bump",
-				"content": "",
-				"excerpt": "",
-				"date": "2018-04-17 11:00:00",
-				"modified": "2018-04-18 10:00:00",
-				"categories": [{
-					"id": 972,
-					"slug": "promos",
-					"title": "Promotions - Website",
-					"description": "New promo category for the new layout website promos.",
-					"parent": 0,
-					"post_count": 4
-				}],
-				"attachments": [],
-				"thumbnail_images": [
-					{
-						"full": {
-							"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2017/10/TB_PTile_ThursNightThrill_v2.jpg",
-							"width": 700,
-							"height": 350
-						},
-						"thumbnail": {
-							"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2017/10/TB_PTile_ThursNightThrill_v2-238x178.jpg",
-							"width": 238,
-							"height": 178
-						},					}
-				],
-				"custom_fields": {
-					"claim_url": [
-						"https://www.topbetta.com.au/racing?utm_source=promo-page&utm_medium=button&utm_campaign=2018-goat-price-bump&utm_content=promo-page-button"
-					],
-					"claim_url_text": [
-						"Bet Now"
-					],
-					"how_it_works": [
-						"For all you Footy fans who think the bump is dead... think again!<br> <br> Introducing the GOAT Price Bump, TopBetta's new product that lets punters BUMP up the odds on every single runner in a race or selections of available sporting markets.<br> <br> The GOAT is bringing back the bump (and the biff)!<br> <br> How do you know that a GOAT Price Bump is available? <br> <br> Simple! Just look for the 👊on eligible races or sporting events and click to BUMP up your odds!"
-					],
-					"terms_and_conditions": [
-						"<li>‘Price Bump’ options allow you to place a bet at better fixed odds.</li> <li>Price Bump options may be available to you on certain sporting events and thoroughbred, harness and greyhound racing. When you select Price Bump, the increased fixed odds available for you to place your bet will appear. If you wish to place your bet at the Bumped odds that appear, you must select Price Bump to place your bet. If you do not wish to place your bet at the Bumped odds that appear, you must deselect Price Bump.</li> <li>The number of Price Bumps which may be made available in any day will vary. Any unused Price Bumps allocated to you will expire on a daily basis. You can only use your allocated number of Price Bumps in any given 24-hour period, starting and ending at midnight. No correspondence will be entered into about this.</li> <li>Price Bump is only available for single fixed-odds win bets on racing and fixed-odds bets on Sports.</li> <li>The size of the Price Bumped odds which may be available via the Price Bump options will vary depending on a range of factors. No correspondence will be entered into about this.</li> <li>Price Bump options are only available to genuine recreational gamblers who at all times act in good faith and without fraud. Price Bump options are not available to arbitrage or professional punters.</li> <li>TopBetta reserves the right to disallow or disqualify you from using Price Bump options where your usage and volume indicate that you have breached, abused or undermined TopBetta’s General Betting Rules, any additional terms and conditions, the spirit or intent of the Price Bump options or any of TopBetta’s Terms and Conditions.</li> <li>If there is a difference in the name identified with your account and the name identified with your deposit method (e.g. name on credit card), you may be ineligible for Price Bump options and Price Bump options may be withdrawn or invalidated.</li> <li>So as to avoid the abuse of promotions offered by us from time to time, Price Bump is not available together with promotions such as bonus bets, bets placed using non- withdrawable funds or any bets placed which would qualify customers to receive a bonus bet, bonus or promotion. The Price Bump and Margin Butt cannot be used on the same bet. They can be used on the same race, but only one at a time.</li> <li>Bets placed together with Price Bump options are subject to our TopBetta’s Terms and Conditions. TopBetta’s usual customer restrictions, liability and trading limits also apply.</li> <li>A bet placed together with Price Bump option is not accepted until you receive a bet confirmation. If there is any failure or malfunction, a bet may be paid at the regular odds.</li> <li>TopBetta reserve the right to amend, suspend or remove the availability of Price Bump options at any time, on any market or to any customer.</li>"
-					]
-				}
-			}
-		]
+			]
+		}
 	}
-}
