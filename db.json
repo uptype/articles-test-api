@@ -33,15 +33,13 @@
 					"post_count": 4
 				}],
 				"attachments": [],
-				"thumbnail_images": [
-					{
-						"full": {
-							"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2018/04/TB_PTile_GOATPriceBump_v2.jpg",
-							"width": 700,
-							"height": 350
-						}
+				"thumbnail_images": {
+					"full": {
+						"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2018/04/TB_PTile_GOATPriceBump_v2.jpg",
+						"width": 700,
+						"height": 350
 					}
-				],
+				},
 				"custom_fields": {
 					"claim_url": [
 						"https://www.topbetta.com.au/racing?utm_source=promo-page&utm_medium=button&utm_campaign=2018-goat-price-bump&utm_content=promo-page-button"
@@ -78,15 +76,13 @@
 					"post_count": 4
 				}],
 				"attachments": [],
-				"thumbnail_images": [
-					{
-						"full": {
-							"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2017/10/TB_PTile_ProtestGuarantee_v2.jpg",
-							"width": 900,
-							"height": 506
-						}
+				"thumbnail_images": {
+					"full": {
+						"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2017/10/TB_PTile_ProtestGuarantee_v2.jpg",
+						"width": 700,
+						"height": 350
 					}
-				],
+				},
 				"custom_fields": {
 					"claim_url": [
 						"https://www.topbetta.com.au/racing"
@@ -123,15 +119,13 @@
 					"post_count": 4
 				}],
 				"attachments": [],
-				"thumbnail_images": [
-					{
-						"full": {
-							"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2017/10/TB_PTile_ThursNightThrill_v2.jpg",
-							"width": 700,
-							"height": 350
-						}
+				"thumbnail_images": {
+					"full": {
+						"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2017/10/TB_PTile_ThursNightThrill_v2.jpg",
+						"width": 700,
+						"height": 350
 					}
-				],
+				},
 				"custom_fields": {
 					"claim_url": [
 						"https://www.topbetta.com.au/racing?utm_source=promo-page&utm_medium=button&utm_campaign=2018-goat-price-bump&utm_content=promo-page-button"
@@ -168,15 +162,13 @@
 					"post_count": 4
 				}],
 				"attachments": [],
-				"thumbnail_images": [
-					{
-						"full": {
-							"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2017/10/TB_PTile_FridayNightFillUp_v2.jpg",
-							"width": 700,
-							"height": 350
-						}
+				"thumbnail_images": {
+					"full": {
+						"url": "https://www.topbetta.com.au/blog/wp-content/uploads/2017/10/TB_PTile_FridayNightFillUp_v2.jpg",
+						"width": 700,
+						"height": 350
 					}
-				],
+				},
 				"custom_fields": {
 					"claim_url": [
 						"https://www.topbetta.com.au/racing?utm_source=promo-page&utm_medium=button&utm_campaign=2018-goat-price-bump&utm_content=promo-page-button"
